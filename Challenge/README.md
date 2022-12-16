@@ -12,6 +12,12 @@ The stakeholder to which the results of this analysis will be communicated is a 
    
     * The below views of June and December dataframes offer a quick glimpse into some basic metrics of each month's temperature data. 
     The minimum temperature is 10 F higher in June than December. This adds creedence to the previous result regarding variance from the mean likely skewing cooler in December, as opposed to warmer. 
+    
+ 
+   ![June_describe](https://user-images.githubusercontent.com/109499859/208155092-5d9c07b9-2e81-4d79-997e-b139b7a8eb5d.png) ![Dec_describe](https://user-images.githubusercontent.com/109499859/208155149-a3e4734c-46c4-45a4-9b18-de99b35a40d2.png) 
+  
+ 
+
 
     
 ## Summary
