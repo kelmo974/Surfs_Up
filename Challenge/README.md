@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The stakeholder to which the results of this analysis will be communicated is a potential key investor in a hybrid surf/ice cream shop located in Hawaii. It is important to compare temperature from day-to-day and across the months throughout the course of the year as weather greatly influences shop traffic and even the desire to eat ice cream. These driving forces will directly impact sales, so before the stakeholder agrees to invest, it is only prudent to gaugue potential revenue. The best way to illustrate this relationship was to perform explroatory data analysis and summarize the temperature findings in tidy graphs plotted against time prior to communicating this information.
+The stakeholder to which the results of this analysis will be communicated is a potential key investor in a hybrid surf/ice cream shop located in Hawaii. It is important to compare temperature from day-to-day and across the months throughout the course of the year as weather greatly influences shop traffic and even the desire to eat ice cream. These driving forces will directly impact sales, so before the stakeholder agrees to invest, it is only prudent to gaugue potential revenue. The best way to illustrate this relationship was to perform explroatory data analysis and summarize in Pandas dataframes. The temperature findings could also be displayed in tidy graphs plotted against time prior to communicating this information.
 
 ## Results
     
